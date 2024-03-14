@@ -15,3 +15,6 @@ Our dataset to improve the grammer
 
 ![image](https://github.com/chandralabs/Tamil-Research-LLM/assets/138362415/b3c0e985-6d5e-4b6f-ae2b-9031b7e33828)
 
+Our research paper for the Tamil Teacher conference
+https://github.com/chandralabs/Tamil-Research-LLM/blob/main/Modern%20way%20of%20Education%20Tamil%20LLM%20usage%20in%20Tamil%20Education_.pdf
+
